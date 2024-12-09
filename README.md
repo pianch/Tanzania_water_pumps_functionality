@@ -42,11 +42,13 @@ non functional : the well is not operational
 
 #### visualized the distribution of water wells and their status
 
-![Alt text](images/well distribution.png "Well Distribution")
+
+![Alt text](images/welldistribution.jpg "Well distribution")
+
 
 #### Distribution of Target Variables
 
-![Alt text](images/target variable.png "Target Variables")
+![Alt text](images/targetvariable.png "Target Variables")
 
 ## Modelling
 
@@ -75,10 +77,10 @@ This features can be presented to the stakeholders(the government of Tanzania), 
 The overall data used was not up to date 
 The data was  not reliably gathered, it contained a lot of placeholders in important features such as population and amount_tsh, hence the results obtained are not particularly accurate.
 
-![Alt text](images/top features.png "Top features")
+![Alt text](images/topfeatures.png "Top features")
 ## Recommendations
 
-![Alt text](images/submission scores.png "Submission score")
+![Alt text](images/submissionscores.png "Submission score")
 
 Work with the local government to ensure more accurate gathering of data
 
