@@ -101,4 +101,10 @@ Introduce financial support programs at the local government level and explore s
 efforts to gather consistent, high-quality data to improve predictive models and enable preemptive waterpoint maintenance.
 
 
+### Links
 
+[Presentation](Tanzaniawaterpumpspresentation.pdf)
+
+For questions or support, reach out via email: [your-mainaedwin24@gmailcom](Edwin:mainaedwin24@gmail.com)
+
+For questions or support, reach out via email: [your-email@example.com](mailto:yo
