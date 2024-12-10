@@ -103,7 +103,7 @@ efforts to gather consistent, high-quality data to improve predictive models and
 
 ### Links
 
-[Presentation](Tanzaniawaterpumpspresentation.pdf)
+[Presentation](Tanzania_water_pumps_presentation.pdf)
 
 For questions or support, reach out via email: [your-mainaedwin24@gmailcom](Edwin:mainaedwin24@gmail.com)
 
